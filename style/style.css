@@ -1,0 +1,18 @@
+.deletebutton {
+	cursor: pointer;
+	color: red;
+}
+
+
+
+#teacherlist, #courselist {
+	float: left;
+	width: 400px;
+}
+
+#nav {
+	float: left;
+	width: 100px;
+	background-color: #FEFEFE;
+	cursor: pointer;
+}
